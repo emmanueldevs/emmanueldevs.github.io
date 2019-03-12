@@ -1,0 +1,54 @@
+{
+  "background_color": "#100e17",
+  "display": "standalone",
+  "orientation":"portrait",
+  "theme_color": "#202026",
+  "short_name": "EmmanuelDevs",
+  "name": "⚡ Emmanuel Adeboje - EmmanuelDevs ⚡",
+  "description": "I am Young, Smart and Enthusiastic, the exact qualities needed to deliver excellent Web services.",
+  "lang": "en-US",
+  "icons": [
+  {
+    "src": "assets/images/icons/ab-img-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-128x128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-152x152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-384x384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/images/icons/ab-img-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+  ],
+  "start_url": "index.html?launcher=true",
+  "scope": "/"
+}
