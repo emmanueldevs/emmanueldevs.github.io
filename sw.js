@@ -26,8 +26,8 @@ console.log("fetch completed: " + event.request.url, networkResponse);
             '/assets/plugins/css/animate.css',
             '/assets/plugins/css/owl.css',
             '/assets/plugins/css/jquery.fancybox.min.css',
-            '/assets/css/styles.css'
-            '/assets/css/responsive.css'//end of css files
+            '/assets/css/styles.css',
+            '/assets/css/responsive.css',//end of css files
             '/assets/images/ab-img.png',//images to keep offline
             '/images/emmanuel.png',
             '/assets/images/ab-img.png',
